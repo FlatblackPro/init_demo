@@ -14,3 +14,5 @@ simulate code change, add, commit, version2
 simulate code change, add, commit, version3
 -------------------------------------------
 this is hot-fix version test, branch
+-------------------------------------------
+test for code conflict, now in master
