@@ -16,3 +16,11 @@ simulate code change, add, commit, version3
 this is hot-fix version test, branch
 -------------------------------------------
 test for code conflict, now in master
+-------------------------------------------
+this is hot-fix version conflict test, this line will be conflict with master version!
+-------------------------------------------
+some code...
+some code...
+some code...
+------------
+进入文件，手动编辑冲突代码，然后再次提交即可!
