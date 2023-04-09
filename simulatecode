@@ -14,3 +14,10 @@ simulate code change, add, commit, version2
 simulate code change, add, commit, version3
 -------------------------------------------
 this is hot-fix version test, branch
+-------------------------------------------
+this is hot-fix version conflict test, this line will be conflict with master version!
+-------------------------------------------
+some code...
+some code...
+some code...
+------------
